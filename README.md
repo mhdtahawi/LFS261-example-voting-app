@@ -1,5 +1,5 @@
 [![Build Status](https://425b-85-190-234-189.ngrok-free.app/job/instavote/job/worker-build/badge/icon)](https://425b-85-190-234-189.ngrok-free.app/job/instavote/job/worker-build/)
-
+[![Build Status](https://425b-85-190-234-189.ngrok-free.app/buildStatus/icon?job=instavote%2Fworker-build)](https://425b-85-190-234-189.ngrok-free.app/job/instavote/job/worker-build/)
 Example Voting App
 =========
 
